@@ -7,9 +7,9 @@ Jogo interativo onde o usuário tenta adivinhar um número aleatório com feedba
 ##  Demonstração
 
 <p align="center">
-  <img src="screenshots/inicio.png" width="270" alt="Tela inicial do jogo">
-  <img src="screenshots/jogando.png" width="270" alt="Jogando - dica de número menor">
-  <img src="screenshots/vitoria.png" width="270" alt="Tela de vitória">
+  <img src="screenshots/img_inicial.png" width="270" alt="Tela inicial do jogo">
+  <img src="screenshots/img_jogando.png" width="270" alt="Jogando - dica de número menor">
+  <img src="screenshots/img_vitoria.png" width="270" alt="Tela de vitória">
 </p>
 
 ## Tecnologias
